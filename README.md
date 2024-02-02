@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @itzadmin001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 MERN Stack Developer | Fresh Graduate | Passionate about crafting web experiences.
 
-<!---
-itzadmin001/itzadmin001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Yogesh, a recent graduate diving into the MERN (MongoDB, Express.js, React.js, Node.js) stack. Proficient in creating dynamic and responsive web applications.
+
+💼 Skills: React.js, Node.js, MongoDB, HTML, CSS, JavaScript | Open to learning and exploring new technologies.
+
+🌱 Constantly learning and building. Check out my projects and let's connect for exciting collaborations!
+
+📬 Reach out for discussions, project ideas, or just to chat. Let's code together!
+
+Happy coding! 🚀✨
